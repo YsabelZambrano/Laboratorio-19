@@ -1,0 +1,7 @@
+public class Juego {
+    private List<Soldado> ejercito1;
+    private List<Soldado> ejercito2;
+    private Scanner scanner;
+    private final int TAMANO_MAPA = 10;
+
+}
